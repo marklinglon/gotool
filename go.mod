@@ -1,4 +1,4 @@
-module github.com/redwarn/gotool
+module github.com/marklinglon/gotool
 
 go 1.15
 
